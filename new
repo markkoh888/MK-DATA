@@ -1,0 +1,7 @@
+echo "# MK-DATA" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/markkoh888/MK-DATA.git
+git push -u origin master
+                
